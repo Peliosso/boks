@@ -90,7 +90,7 @@ const TOKENS = {
 const ENDPOINTS = {
   placa: {
     query: "placa",
-    url: "https://makima.online/api/consulta/placa2",
+    url: "https://makima.online/api/consulta/placa",
     param: "placa"
   },
 
